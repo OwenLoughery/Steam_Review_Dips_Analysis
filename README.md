@@ -2,17 +2,11 @@
 
 ## Question:
 
-Do highly engaged players (high playtime) leave negative reviews during controversy periods but continue playing the game?
-
-What are the changes in review activity during controversy periods and how does this affect player activity?
-
-## Why is this question worth answering:
-
-I found this question interesting because modern video games are continuously updated and improved based on community feedback through patches, balance changes, and content updates. Understanding how player sentiment evolves over time provides insight into player engagement, developer responsiveness, and the lifecycle of live-service and continuously supported games. This topic is also widely discussed in gaming communities where players frequently debate whether developers “fix” games after negative reception (for example, games that launch with criticism but improve through updates).
+Is there a difference in review dip periods (spike in negative reviews for a game) versus normal review periods for video games?
 
 ## Hypothesis:
 
-Player sentiment toward games will generally improve over time, particularly after periods of increased negative feedback. This is because developers often respond to player criticism with updates and improvements, which can lead to higher long-term satisfaction and more positive reviews as the game matures. For games that don't update and listen to feedback will lose engagement and people will stop playing.
+Most times when games experience a huge inflow of negative reviews at once it is a direct response to something the developer implemented like a poor update, monetization, or something else that makes the players unhappy. So I would theorize that these negative review periods that happen are made up of the more commited community of the game vs. normal reviews games get I think would be new player sentiment. So looking into seeing if there is a difference in these types of review periods can help developers make game changes to fix problems with new players issues and also those of the more commited community.
 
 ## Data
 
